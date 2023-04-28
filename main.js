@@ -1,4 +1,4 @@
-let edadUser = prompt("Ingrese la EDAD")
+let edadUser = prompt("por favor Ingrese su EDAD, USTED debe ser mayor de 18 años para poder comprar una entrada")
 const precioEntrada = 1800;
 
 function validacionEdad(edadUser) {
